@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/connaryscott/rerun.png?label=ready&title=Ready)](https://waffle.io/connaryscott/rerun)
 # NAME
 
 rerun - a modular shell automation framework to organize your keeper scripts.
